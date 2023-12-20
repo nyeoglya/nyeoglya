@@ -1,9 +1,9 @@
-### Hi there 👋 I'm DeveloperIzi
+### Hi there 👋 I'm nyeoglya
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperIzi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyeoglya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIzi&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeoglya&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,7 +23,7 @@
 </p>
 
 <!--
-**DeveloperIzi/DeveloperIzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nyeoglya/nyeoglya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
