@@ -12,12 +12,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyeoglya&count_bg=%23363636&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
-  
+</br>
+
 ---
 <!--
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeoglya&layout=compact&theme=dracula&langs_count=5"/>
-<div align="center">
 -->
+
+<div align="center">
 
 ## Tech Queue
 #### 📜 Language 📜
@@ -44,6 +46,5 @@
 <img src="https://img.shields.io/badge/Multivariable Calculus-A41E22?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Writing-A41E22?style=flat-square&logoColor=white&"/>
 
-<!--</div>
+</div>
 </br>
--->
