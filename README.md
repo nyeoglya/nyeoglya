@@ -17,13 +17,15 @@
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeoglya&layout=compact&theme=dracula&langs_count=5"/>
 <div align="center">
 
+---
+
 ### Tech Queue
 ##### 📜 Language 📜
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Java-4F3100?style=flat-square&logo=java&logoColor=white&">
-<img src="https://img.shields.io/badge/Scala-7F52FF?style=flat-square&logo=scala&logoColor=white&"/>M
+<img src="https://img.shields.io/badge/Scala-7F52FF?style=flat-square&logo=scala&logoColor=white&"/>
 
 ##### 💚 Environment 💚
 <img src="https://img.shields.io/badge/Ubuntu Linux-1793D1?style=flat-square&logoColor=white&"/>
