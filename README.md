@@ -15,9 +15,7 @@
   
 ---
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeoglya&layout=compact&theme=dracula&langs_count=5"/>
-<div align="center">
-
----
+<!--<div align="center">-->
 
 ### Tech Queue
 ##### 📜 Language 📜
