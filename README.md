@@ -4,10 +4,10 @@
 
 <div align="center">
   
-# nyeoglya
+# HYUNSEONG(nyeoglya)
 **POSTECH 24**
 
-반갑습니다. 녁랴입니다.
+Welcome.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyeoglya&count_bg=%23363636&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 
