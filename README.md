@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# HYUNSEONG(nyeoglya)
+# HYUNSEONG (nyeoglya)
 **POSTECH 24**
 
 Welcome.
