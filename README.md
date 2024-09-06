@@ -41,9 +41,9 @@ Welcome.
 <img src="https://img.shields.io/badge/Automata and Formal Languages-4169E1?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Logics and Critical Thinking-CC342D?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/General Physics I(H)-5586A4?style=flat-square&logoColor=white&"/>
-<img src="https://img.shields.io/badge/General Chemistry I-A41E22?style=flat-square&logoColor=white&"/>
-<img src="https://img.shields.io/badge/Multivariable Calculus-A41E22?style=flat-square&logoColor=white&"/>
-<img src="https://img.shields.io/badge/Writing-A41E22?style=flat-square&logoColor=white&"/>
+<img src="https://img.shields.io/badge/General Chemistry I-74FE72?style=flat-square&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Multivariable Calculus-F11A99?style=flat-square&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Writing-507B50?style=flat-square&logoColor=white&"/>
 
 </div>
 </br>
