@@ -1,9 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-<img align="right" width=55% src="https://github-readme-stats.vercel.app/api?username=nyeoglya&theme=dracula&layout=compact&langs_count=10&show_icons=true&show=prs_merged,prs_merged_percentage"/>
-
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nyeoglya&theme=dracula&layout=compact&langs_count=10&show_icons=true&show=prs_merged,prs_merged_percentage"/>
 <div align="center">
-  
+
 # HYUNSEONG (nyeoglya)
 **POSTECH 24**
 
@@ -15,9 +13,8 @@ Welcome.
 </br>
 
 ---
-<!--
+
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeoglya&layout=compact&theme=dracula&langs_count=5"/>
--->
 
 <div align="center">
 
@@ -35,7 +32,9 @@ Welcome.
 <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Jetbrains IDEs-000000?style=flat-square&logoColor=white&"/>
 
-### ⚡ Learning & Interested In ⚡
+<!--
+### ⚡ Currently Learning & Interested In ⚡
+<img src="https://img.shields.io/badge/Kotlin-FF3E00?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Software Design Methods-FF3E00?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Modern Algebra I-43A047?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Automata and Formal Languages-4169E1?style=flat-square&logoColor=white&"/>
@@ -44,6 +43,7 @@ Welcome.
 <img src="https://img.shields.io/badge/General Chemistry I-74FE72?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Multivariable Calculus-F11A99?style=flat-square&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Writing-507B50?style=flat-square&logoColor=white&"/>
+-->
 
 </div>
 </br>
