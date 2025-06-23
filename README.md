@@ -24,4 +24,4 @@ let nyeoglya =
 
 ### ⚡ Feel free to reach out — I'm always open to suggestions and collaboration!
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=nyeoglya&theme=holi&layout=compact&langs_count=5&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nyeoglya&theme=holi&layout=compact&langs_count=5&show_icons=true"/>
